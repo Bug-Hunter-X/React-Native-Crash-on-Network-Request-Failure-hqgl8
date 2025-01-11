@@ -1,0 +1,1 @@
+This React Native code causes a crash when a network request fails. The error handling isn't robust enough to gracefully manage the failure. The app crashes with a `Network request failed` error message.
